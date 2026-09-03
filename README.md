@@ -37,9 +37,6 @@
 
 ## 🚀 Experience
 
-## 🚀 Featured Projects
-
-
 ## 📚 Currently Learning
 
 - AI Agent Architecture
