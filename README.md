@@ -39,20 +39,11 @@
 
 ## 📚 Currently Learning
 
-- AI Agent Architecture
-- GraphRAG
-- AI Safety
-- System Design
 - Spring Boot
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight.vercel.app/api?username=SangHee-Hong&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=SangHee-Hong&layout=compact&theme=tokyonight"/>
-</p>
-
+- System Design
+- Cloud
+- AI Agent / RAG
+- LangChain
 
 
 ## 📫 Contact
