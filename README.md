@@ -7,7 +7,7 @@
 - 🎓 Sookmyung Women Univerisy : Computer Science Student
 - 🤖 Interested in **LLM Agents**, **RAG**, and **AI Service Development**
 - ☕ Backend Developer with **Java & Spring Boot / Django**
-- 🚀 Passionate about solving real-world problems with AI
+- 🚀 Passionate about solving real-world problems human friendly
 
 
 ## 🛠 Tech Stack
